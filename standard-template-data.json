@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-11-08T15:29:20.728698782Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-11-08T15:29:48.052537038Z",
     "templateType": "trip_l",
     "propertyId": "6aa154d6-4ce0-4044-b3f8-7af10284c547",
     "homepageId": "01a0b3a9-8064-7ba8-a945-d35586cbe4de"
@@ -2542,7 +2542,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "머무를수록 편안한 공간",
                 "images": [
                   {
                     "id": "01a0b3a9-c593-731e-9e18-808422bea39a",
